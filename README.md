@@ -37,7 +37,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Computing DOP](https://www.inventeksys.com/computing-dilution-of-precision-dop-for-gps/) : Mathematics behind computing Dilution of Precision (DOP) for 4 or more satellites
 
-[SS-GPS Interface Specification](https://www.gps.gov/technical/icwg/IS-GPS-200L.pdf) : Requirements related to the interface between the Space Segment (SS) of the Global Positioning System (GPS) and the navigation User Segment (US) of the GPS for radio frequency (RF) link 1 (L1) and link 2 (L2).
+[SS-US-RF Interface Specification](https://www.gps.gov/technical/icwg/IS-GPS-200L.pdf) : Requirements of interface between the Space Segment (SS) and the navigation User Segment (US) or radio frequency (RF)
 
 [Geometry and Visibility](https://www.ion.org/publications/abstract.cfm?articleID=6048) : ION publication on geometry and visibility of satellites in restricted area
 
