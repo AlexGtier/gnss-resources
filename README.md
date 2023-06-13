@@ -70,9 +70,21 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Computing DOP](https://www.inventeksys.com/computing-dilution-of-precision-dop-for-gps/) : Mathematics behind computing Dilution of Precision (DOP) for 4 or more satellites
 
-## GNSS Coding
+## GNSS Coding (Python, Matlab)
 
 [GNSS data on Android](https://www.euspa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) : Using GNSS raw measurements on android devices
+
+[Python implementation](https://www.johnsonmitchelld.com/2021/03/14/least-squares-gps.html) : Satellite position and Least squares python implemented
+
+[GITHUB - GNSS SDR Git](https://github.com/gnss-sdr/gnss-sdr/tree/main) : see "geoFunctions" folder
+
+[GITHUB - 3D coordinates conversion](https://github.com/geospace-code/pymap3d/tree/main) : Pure Python 3D geographic coordinate conversions and geodesy.
+
+[GITHUB - GPS Measurements tool](https://github.com/google/gps-measurement-tools) : Matlab tools to read, process data and compute position
+
+[GITHUB - GNSS software receiver](https://github.com/kirienko/pylgrim) : Pylgrim git - Playground project. Just to understand how GNSS works. 
+
+[GITHUB - GNSS Py](https://github.com/GNSSpy-Project/gnsspy) : Python Toolkit for GNSS Data
 
 ## GNSS AI
 
