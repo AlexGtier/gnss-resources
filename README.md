@@ -3,25 +3,25 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 ## GNSS News 📰
 
-[InsideGNSS (IG)](https://insidegnss.com/)
+[InsideGNSS (IG)](https://insidegnss.com/ insidegnss)
 
-[Institute Of Navigtion (ION)](https://www.ion.org/)
+[Institute Of Navigtion (ION)](https://www.ion.org/ ion.org)
 
 ## GNSS Tools ⚙️
 
-[Trimble Planning](https://www.gnssplanning.com/#/skyplot) : Satellite Skyplot forecast (Geometry and Visibility)
+[Trimble Planning](https://www.gnssplanning.com/#/skyplot gnssplanning) : Satellite Skyplot forecast (Geometry and Visibility)
 
-[IGN RTK Data](https://rgp.ign.fr/DONNEES/diffusion/) : Fixed antennas data for RTK corrections
+[IGN RTK Data](https://rgp.ign.fr/DONNEES/diffusion/ ign data) : Fixed antennas data for RTK corrections
 
-[Satellite Map](https://satellitemap.space/?constellation=GPS) : Real time projection of GNSS satellite around the earth
+[Satellite Map](https://satellitemap.space/?constellation=GPS satellitemap) : Real time projection of GNSS satellite around the earth
 
-[Centipede Network](https://docs.centipede.fr/) : Collaborative, free and open source Real Time Kinematic
+[Centipede Network](https://docs.centipede.fr/ centipede) : Collaborative, free and open source Real Time Kinematic
 
-[NASA Earth Data](https://cddis.nasa.gov/archive/gnss/data/daily/) : Daily past ephemeris and observable data
+[NASA Earth Data](https://cddis.nasa.gov/archive/gnss/data/daily/ archive nasa data) : Daily past ephemeris and observable data
 
-[NASA Tools List](https://ssd.jpl.nasa.gov/tools/) : Multiple usefull NASA tools
+[NASA Tools List](https://ssd.jpl.nasa.gov/tools/ nasa tools) : Multiple usefull NASA tools
 
-[GPS Coordinates](https://gps-coordinates.org/) : Find the latitude and longitude of your current location including your address, zip code, state, city and latlong
+[GPS Coordinates](https://gps-coordinates.org/ gps-coordinates) : Find the latitude and longitude of your current location including your address, zip code, state, city and latlong
 
 ## GNSS Theory 💡
 
