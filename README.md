@@ -1,13 +1,13 @@
 # GNSS-Resources
 Usefull resources (articles, git, tutorials) for GNSS
 
-## GNSS News
+## GNSS News 📰
 
 [InsideGNSS (IG)](https://insidegnss.com/)
 
 [Institute Of Navigtion (ION)](https://www.ion.org/)
 
-## GNSS Tools
+## GNSS Tools ⚙️
 
 [Trimble Planning](https://www.gnssplanning.com/#/skyplot) : Satellite Skyplot Forecast (Geometry and Visibility)
 
@@ -27,7 +27,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 ## GNSS Theory
 
-### Lecture
+### Lecture 📚
 
 [GNSS Tutorial](https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite/glab-tutorials/gnss-tutorials) : UNIVERSITAT POLITÉCNICA DE CATALANYA (UPC) GNSS Courses
 
@@ -39,7 +39,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [CAPLOC Urban GNSS hybridation](https://hal.science/hal-01663969/document) : On-board outdoor localization algorithms in urban areas with GNSS map fusion algorithm
 
-### GNSS measures format
+### GNSS measures format 💾
 
 [RTCM message list](https://www.use-snip.com/kb/knowledge-base/rtcm-3-message-list/) : A complete list of all adopted RTCM 3 Messages with brief commentary.
 
@@ -47,7 +47,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Understand RINEX 3.](https://server.gage.upc.edu/gLAB/HTML/Observation_Rinex_v3.04.html) : Understanding 3.XX GPS/GNSS RINEX Files and Relevant Parameters
 
-### Jamming, Spoofing, Meaconing
+### Jamming, Spoofing, Meaconing 📡
 
 [GNSS Jamming test in Slovenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8398818/) : Ublox F9P outdoor (opensky) jamming robustness test in Slovenia
 
@@ -55,12 +55,12 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [GNSS Spoofing video](https://www.youtube.com/playlist?list=PLLKqXsMeT96wCXglr4ILmBP6oF5a9TDiG) : GNSS spoofing Youtube videos playlist
 
-[GNSS Spoofing tutorial](https://www.youtube.com/watch?v=g-bdK7tRpBI) : (!Illegal in France!) GPS Spoofer with HackRF One and Android Phone
+[GNSS Spoofing tutorial](https://www.youtube.com/watch?v=g-bdK7tRpBI) : (illegal in France!) GPS Spoofer with HackRF One and Android Phone
 
 [Feasability of GNSS spoofing](https://insidegnss.com/infeasibility-of-multi-frequency-spoofing/) InsideGNSS
 
 
-## GNSS Development
+## GNSS Algorithms 📐
 
 [Satellite Pos algorithms](https://ascelibrary.org/doi/pdf/10.1061/9780784411506.ap03) : Mathematics behind satellites position calculation
 
@@ -70,7 +70,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Computing DOP](https://www.inventeksys.com/computing-dilution-of-precision-dop-for-gps/) : Mathematics behind computing Dilution of Precision (DOP) for 4 or more satellites
 
-## GNSS Coding (Python, Matlab)
+## GNSS Coding (Python, Matlab) 💻
 
 [GNSS data on Android](https://www.euspa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) : Using GNSS raw measurements on android devices
 
@@ -86,7 +86,12 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [GITHUB - GNSS Py](https://github.com/GNSSpy-Project/gnsspy) : Python Toolkit for GNSS Data
 
-## GNSS AI
+### GEOCODING 🗺️
+
+[Web maps from data](https://realpython.com/python-folium-web-maps-from-data/) : Python Folium - Visualize geospatial data in Python
+
+
+## GNSS AI 🤖
 
 [CNN Multi-path estimation](https://ar5iv.labs.arxiv.org/html/2206.01473) : Distributional loss for CNN regression and application to GNSS multi-path estimation
 
