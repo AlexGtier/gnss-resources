@@ -25,7 +25,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 ## GNSS Theory 💡
 
-### - Lecture 📚
+### ● Lecture 📚
 
 [GNSS Tutorial](https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite/glab-tutorials/gnss-tutorials) : UNIVERSITAT POLITÉCNICA DE CATALANYA (UPC) GNSS Courses
 
@@ -37,7 +37,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [CAPLOC Urban GNSS hybridation](https://hal.science/hal-01663969/document) : On-board outdoor localization algorithms in urban areas with GNSS map fusion algorithm
 
-### - GNSS measures format 💾
+### ● GNSS measures format 💾
 
 [RTCM message list](https://www.use-snip.com/kb/knowledge-base/rtcm-3-message-list/) : A complete list of all adopted RTCM 3 Messages with brief commentary.
 
@@ -45,7 +45,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Understand RINEX 3.](https://server.gage.upc.edu/gLAB/HTML/Observation_Rinex_v3.04.html) : Understanding 3.XX GPS/GNSS RINEX Files and Relevant Parameters
 
-### - Jamming, Spoofing, Meaconing 📡
+### ● Jamming, Spoofing, Meaconing 📡
 
 [GNSS Jamming test in Slovenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8398818/) : Ublox F9P outdoor (opensky) jamming robustness test in Slovenia
 
@@ -90,7 +90,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [GITHUB - NI Repo](https://github.com/ni) : National Instruments Corp. Repository on GitHub
 
-### - GEOCODING 🗺️
+### ● GEOCODING 🗺️
 
 [Web maps from data](https://realpython.com/python-folium-web-maps-from-data/) : Python Folium - Visualize geospatial data in Python
 
