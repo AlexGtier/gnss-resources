@@ -9,7 +9,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 ## GNSS Tools ⚙️
 
-[Trimble Planning](https://www.gnssplanning.com/#/skyplot) : Satellite Skyplot Forecast (Geometry and Visibility)
+[Trimble Planning](https://www.gnssplanning.com/#/skyplot) : Satellite Skyplot forecast (Geometry and Visibility)
 
 [IGN RTK Data](https://rgp.ign.fr/DONNEES/diffusion/) : Fixed antennas data for RTK corrections
 
@@ -19,9 +19,7 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [NASA Earth Data](https://cddis.nasa.gov/archive/gnss/data/daily/) : Daily past ephemeris and observable data
 
-[NASA Tools List](https://ssd.jpl.nasa.gov/tools/) : Multiple usefull tools
-
-[OpenStreetMap](https://www.openstreetmap.org/#map=15/43.6011/1.4538&layers=G) : Usefull layers for geocoding
+[NASA Tools List](https://ssd.jpl.nasa.gov/tools/) : Multiple usefull NASA tools
 
 [GPS Coordinates](https://gps-coordinates.org/) : Find the latitude and longitude of your current location including your address, zip code, state, city and latlong
 
@@ -96,6 +94,9 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Web maps from data](https://realpython.com/python-folium-web-maps-from-data/) : Python Folium - Visualize geospatial data in Python
 
+[OpenStreetMap](https://www.openstreetmap.org/#map=15/43.6011/1.4538&layers=G) : Usefull layers for geocoding
+
+[Geocoding data science pipeline](https://www.kdnuggets.com/2023/06/geocoding-data-scientists.html?utm_source=rss&utm_medium=rss&utm_campaign=geocoding-for-data-scientists) : Manual and API based geocoding
 
 ## GNSS AI 🤖
 
