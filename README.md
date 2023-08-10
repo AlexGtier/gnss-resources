@@ -13,6 +13,8 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [IGN RTK Data](https://rgp.ign.fr/DONNEES/diffusion/ "ign data") : Fixed antennas data for RTK corrections
 
+[GNSS AUSPOS](https://gnss.ga.gov.au/auspos "auspos") : Online GPS Processing Service
+
 [Satellite Map](https://satellitemap.space/?constellation=GPS "satellitemap") : Real time projection of GNSS satellite around the earth
 
 [Centipede Network](https://docs.centipede.fr/ "centipede") : Collaborative, free and open source Real Time Kinematic
