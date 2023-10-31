@@ -7,6 +7,10 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Institute Of Navigtion (ION)](https://www.ion.org/ "ion.org")
 
+[GPS World](https://www.gpsworld.com/category/gnss-news/)
+
+[
+
 ## GNSS Tools ⚙️
 
 [Trimble Planning](https://www.gnssplanning.com/#/skyplot "gnssplanning") : Satellite Skyplot forecast (Geometry and Visibility)
@@ -24,6 +28,8 @@ Usefull resources (articles, git, tutorials) for GNSS
 [NASA Tools List](https://ssd.jpl.nasa.gov/tools/ "nasa tools") : Multiple usefull NASA tools
 
 [GPS Coordinates](https://gps-coordinates.org/ "gps-coordinates") : Find the latitude and longitude of your current location including your address, zip code, state, city and latlong
+
+[SatelliteMap](https://satellitemap.space/?constellation=GPS) : Observing the GNSS constellations around the Earth
 
 ## GNSS Theory 💡
 
@@ -74,6 +80,8 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 ## GNSS Coding (Python, Matlab) 💻
 
+[GNSS Matlab Implementation](https://www.researchgate.net/profile/Umar-Bhatti-2/publication/328957545_Development_of_low_cost_GPSINSMagnetometer_based_integrated_navigation_system/links/5bed535992851c6b27bfe7b2/Development-of-low-cost-GPS-INS-Magnetometer-based-integrated-navigation-system.pdf) : Matlab Code - Appendix - p.166
+
 [GNSS data on Android](https://www.euspa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) : Using GNSS raw measurements on android devices
 
 [Python implementation](https://www.johnsonmitchelld.com/2021/03/14/least-squares-gps.html) : Satellite position and Least squares python implemented
@@ -100,8 +108,10 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [Geocoding data science pipeline](https://www.kdnuggets.com/2023/06/geocoding-data-scientists.html?utm_source=rss&utm_medium=rss&utm_campaign=geocoding-for-data-scientists) : Manual and API based geocoding
 
+[Web maps on Streamlit](https://github.com/randyzwitch/streamlit-folium) : Python Folium - Streamlit plugin
+
 ## GNSS AI 🤖
 
 [CNN Multi-path estimation](https://ar5iv.labs.arxiv.org/html/2206.01473) : Distributional loss for CNN regression and application to GNSS multi-path estimation
 
-[IPNL Conference Papers](https://www.polyu-ipn-lab.com/publications-2) : Works of the Intelligent Positioning and Navigation Laboratory (IPNL - ) 
+[IPNL Conference Papers](https://www.polyu-ipn-lab.com/publications-2) : Works of the Intelligent Positioning and Navigation Laboratory (IPNL)
