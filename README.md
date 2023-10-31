@@ -17,7 +17,7 @@ Useful resources (articles, git, tutorials) for GNSS
 
 [GNSS AUSPOS](https://gnss.ga.gov.au/auspos "auspos") : Online GPS Processing Service
 
-[Satellite Map](https://satellitemap.space/?constellation=GPS "satellitemap") : Real time projection of GNSS satellite around the earth
+[Satellite Map](https://satellitemap.space/?constellation=GPS) : Observing the GNSS constellations around the Earth
 
 [Centipede Network](https://docs.centipede.fr/ "centipede") : Collaborative, free and open source Real Time Kinematic
 
@@ -26,8 +26,6 @@ Useful resources (articles, git, tutorials) for GNSS
 [NASA Tools List](https://ssd.jpl.nasa.gov/tools/ "nasa tools") : Multiple usefull NASA tools
 
 [GPS Coordinates](https://gps-coordinates.org/ "gps-coordinates") : Find the latitude and longitude of your current location including your address, zip code, state, city and latlong
-
-[SatelliteMap](https://satellitemap.space/?constellation=GPS) : Observing the GNSS constellations around the Earth
 
 ## GNSS Theory 💡
 
