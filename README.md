@@ -9,8 +9,6 @@ Usefull resources (articles, git, tutorials) for GNSS
 
 [GPS World](https://www.gpsworld.com/category/gnss-news/)
 
-[
-
 ## GNSS Tools ⚙️
 
 [Trimble Planning](https://www.gnssplanning.com/#/skyplot "gnssplanning") : Satellite Skyplot forecast (Geometry and Visibility)
