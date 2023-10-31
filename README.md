@@ -1,5 +1,5 @@
 # GNSS-Resources
-Usefull resources (articles, git, tutorials) for GNSS
+Useful resources (articles, git, tutorials) for GNSS
 
 ## GNSS News 📰
 
